@@ -1,0 +1,7 @@
+Mkdir (nombre archivo) 
+Cd (nombre ruta donde quieres ir) 
+Cd .. 
+Pwd 
+Cp (ruta archivo) (ruta donde quiero pegar archivo copiado) 
+Cp –r (ruta archivo) (ruta donde quiero pegar archivo copiado) 
+Mv (ruta archivo) (ruta donde quiero mover el archivo archivo ) 
